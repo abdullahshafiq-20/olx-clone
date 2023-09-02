@@ -15,7 +15,7 @@ This website is designed to be responsive, ensuring a seamless experience for us
 
 ## 🌐 Live Demo
 
-You can view the live demo of this project [here](). 🌐
+You can view the live demo of this project [here](https://abdullahshafiq-20.github.io/olx-clone/). 🌐
 
 ## 🔗 Original OLX Web
 
